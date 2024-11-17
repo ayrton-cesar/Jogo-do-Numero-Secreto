@@ -33,10 +33,6 @@ O código está estruturado nas seguintes funções:
 4. Caso o chute esteja errado, o programa dará uma dica para ajudá-lo a adivinhar;
 5. Após acertar, clique no botão "Reiniciar" para começar uma nova rodada.
 
-## Requisitos
-
-- Navegador com suporte para JavaScript.
-
 ## Tecnologias Utilizadas
 
 - HTML
