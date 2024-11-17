@@ -1,7 +1,6 @@
 # Jogo do Número Secreto :game_die:
 
-Um jogo simples de adivinhação de números, onde o jogador tenta adivinhar o número secreto sorteado pelo programa.
-Projeto realizado pelo curso de logica de programação na [Alura](https://cursos.alura.com.br/).
+Projeto de jogo realizado pelo curso de logica de programação na [Alura](https://cursos.alura.com.br/) onde o jogador tenta adivinhar o número secreto sorteado pelo programa.
 
 Jogue o Jogo do Número Secreto [aqui](https://jogo-do-numero-secreto-dusky-ten.vercel.app/)
 
